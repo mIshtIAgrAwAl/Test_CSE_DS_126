@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.h{
+    background-color: yellow;
+    color: green;
+    margin-left: auto;
+    margin-right: auto;
+    padding:0;
+    width: min-content;
+    height: auto;
+    justify-content: center;
+    font-size: xx-large;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+h3{
+    padding: 0;
+    text-decoration: none;
+    color: rgb(9, 173, 228);
+
+}
+.fetch{
+    background-color: #28a275;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+}
+.log{
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
